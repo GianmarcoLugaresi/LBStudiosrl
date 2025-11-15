@@ -1,7 +1,7 @@
 {
       "name": "LBStudio",
       "version": "0.1.0",
-      "homepage": "https://GianmarcoLugaresi.github.io/LBStudiosrl",
+      "homepage": "https://gianmarcolugaresi.github.io/LBStudiosrl/",
       "private": true,
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
