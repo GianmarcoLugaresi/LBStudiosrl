@@ -47,7 +47,7 @@
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --color-neutral-50: oklch(.985 0 0);
     --color-neutral-100: oklch(.97 0 0);
-    --color-neutral-200: oklch(.922 0 0);
+    --color-neutral-200: oklch(79.208% 0.00009 271.152);
     --color-neutral-300: oklch(.87 0 0);
     --color-neutral-400: oklch(.708 0 0);
     --color-neutral-600: oklch(.439 0 0);
